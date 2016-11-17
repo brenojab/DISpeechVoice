@@ -1,0 +1,16 @@
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\bin\Debug\DIApp3.dll
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\bin\Debug\DIApp3.pdb
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\obj\Debug\DIApp3.MainPage.xaml.g.cs
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\obj\Debug\DIApp3.App.xaml.g.cs
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\obj\Debug\DIApp3.dll
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\obj\Debug\DIApp3.pdb
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\obj\Debug\DIApp3.dll.mdb
+c:\users\breno.batista\documents\visual studio 2015\Projects\DIApp3\DIApp3\DIApp3\bin\Debug\DIApp3.dll.mdb
